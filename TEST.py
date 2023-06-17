@@ -10,6 +10,8 @@ import sklearn.metrics as metrics
 #import warnings
 #warnings.filterwarnings("ignore", category=DeprecationWarning)
 
+#  phase 2 du programme python
+
 # TITRE
 st.title("ESTIMATION DU PRIX DE LA MAISON")
 
